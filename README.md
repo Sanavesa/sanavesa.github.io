@@ -10,9 +10,9 @@ The resources below include what we covered in the session.
 3. [Football 2v2](https://www.youtube.com/watch?v=foBwHVenxeU)
 4. [Football Tracker](https://github.com/roboflow/sports)
 5. [OpenAI Five (Dota 2)](https://openai.com/index/openai-five-defeats-dota-2-world-champions/)
-6. [DeepMind Breakout Game](https://www.youtube.com/watch?v=TmPfTpjtdgg)
-7. [DeepMind Space Invaders Game](https://www.youtube.com/watch?v=W2CAghUiofY)
-8. [DeepMind AlphaStar (Starcraft)](https://deepmind.google/discover/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/)
+6. [Breakout Game](https://www.youtube.com/watch?v=TmPfTpjtdgg)
+7. [Space Invaders Game](https://www.youtube.com/watch?v=W2CAghUiofY)
+8. [AlphaStar (Starcraft)](https://deepmind.google/discover/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/)
 
 ### Chatbot
 1. [ChatGPT](https://chatgpt.com/)
