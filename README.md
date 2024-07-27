@@ -1,7 +1,5 @@
 # Resources
-Welcome to Mohammad AlAli's resources and links.
-
-Thank you for being a great audience. You may contact me at [malali@bankbouyan.com](mailto:malali@bankbouyan.com).
+Welcome to Mohammad AlAli's resources and links for presentations.
 
 ## Boubyan 2024 - Bedaina 8
 The resources below include what we covered in the session.
