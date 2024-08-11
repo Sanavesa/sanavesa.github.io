@@ -22,6 +22,7 @@ Dive into the resources we explored during our session.
 1. [Midjourney](https://www.midjourney.com) - Generate stunning images from text descriptions or blend multiple images into one with this innovative tool.
 2. [DALLE-3](https://openai.com/index/dall-e-3/) - Create detailed and unique images from text prompts using the latest in AI image generation technology.
 3. [Deepfake Generator](https://deepfake.civai.org/) - Generate realistic deepfakes of your face in various scenarios, showcasing the advancements in AI-driven video manipulation.
+4. [FLUX - Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) - This open-source tool allows you to generate images from text descriptions, offering a **free** and accessible way to explore AI-driven image creation.
 
 ### Video Generation
 1. [KLING](https://klingai.com) - Transform text into videos or animate images into short clips with this cutting-edge video generation tool.
