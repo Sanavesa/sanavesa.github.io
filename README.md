@@ -27,6 +27,7 @@ Dive into the resources we explored during our session.
 ### Video Generation
 1. [KLING](https://klingai.com) - Transform text into videos or animate images into short clips with this cutting-edge video generation tool.
 2. [Luma](https://lumalabs.ai/dream-machine) - Produce engaging videos from text prompts, harnessing the power of AI to bring your ideas to life.
+3. [Runway Gen-3 Alpha](https://runwayml.com/) - Create high-quality videos from text with advanced AI features.
 
 ### Medicine
 1. [AlphaFold](https://www.youtube.com/watch?v=gg7WjuFs8F4) - Learn how DeepMind's AlphaFold cracked the complex problem of **protein folding**, revolutionizing the field of biology.
