@@ -34,7 +34,7 @@ Dive into the resources we explored during our session.
 
 ### Demos/Tools
 1. [Hand-written digits classifier](https://ufal.mff.cuni.cz/~courses/npfl129/2324/demos/mnist_web.html) - A fascinating demo showing how AI can accurately predict hand-written digits.
-2. [Scribble DXL](https://huggingface.co/spaces/linoyts/scribble-sdxl) - Transform your simple stick figure drawings into detailed images with this creative tool.
+2. [Scribble DXL](https://huggingface.co/spaces/linoyts/scribble-sdxl-flash) - Transform your simple stick figure drawings into detailed images with this creative tool.
 3. [Live Portrait](https://huggingface.co/spaces/KwaiVGI/LivePortrait) - Animate static images using a video reference, bringing still photos to life in an innovative way.
 
 
